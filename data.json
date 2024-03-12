@@ -1,0 +1,16 @@
+{
+    "LisOfExitNodes": [
+      {
+        "ExitNode1": "FE39F07EBE7870DCE124AB30DF3ABD0700A43F75",
+        "Published": "2024-03-11 13:07:19",
+        "LastStatus": "2024-03-12 08:00:00",
+        "ExitAddress": "185.241.208.232 2024-03-12 08:10:51"
+      },
+      {
+        "ExitNode2": "FE39F07EBE7870DCE124AB30DF3ABD0700A43F75",
+        "Published": "2024-03-11 13:07:19",
+        "LastStatus": "2024-03-12 08:00:00",
+        "ExitAddress": "185.241.208.232 2024-03-12 08:10:51"
+      }
+    ]
+}
